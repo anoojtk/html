@@ -1,0 +1,35 @@
+h1{
+    color: aqua;
+    font-style: oblique;
+    font-size: medium;
+    text-underline-position: below;
+}
+p{
+    color: black;
+    font-size: medium;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0cm;
+    outline: 0cap;
+}
+a{
+    color: brown;
+    font-size: small;
+}
+#iron {
+    color: black;
+
+}
+#hj{
+    color:#FF6000;
+    font-style: calc();
+
+}
+#x {
+    border-radius: 10px;
+    padding-right: 50%;
+
+}
+.ab{
+    color: blueviolet;
+}

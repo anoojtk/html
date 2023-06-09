@@ -1,0 +1,12 @@
+/*.y{
+    position: relative;
+    top: 580px;
+    left: 1270px;
+}*/
+.y{
+    position: absolute;
+    top: 0px;
+    bottom: 400px;
+    left: 600px;
+    right:0px;
+}

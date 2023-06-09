@@ -1,0 +1,31 @@
+.a{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    margin: 70px;
+    
+}
+.b{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    margin: 70px;
+    position: relative;
+    bottom: 261px;
+    left: 500px;
+    right: 0px;
+
+
+}
+.c{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    margin: 70px;
+    position: absolute;
+    top: 10px;
+    left:1000px;
+    right: 0px;
+    bottom: 150px;
+
+}

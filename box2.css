@@ -1,0 +1,26 @@
+.a{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+.b{
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    position: absolute;
+    top: 258px;
+    bottom: 100px;
+    left: 150px;
+    right: 300px;
+    
+}
+.c{
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    position: absolute;
+    left: 300px;
+    right: 200px;
+    top: 508px;
+    bottom: 400px;
+}
